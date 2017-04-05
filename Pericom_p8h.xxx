@@ -1,0 +1,126 @@
+00:00.0 Host bridge: Intel Corporation 4th Gen Core Processor DRAM Controller (rev 06)
+00: 86 80 00 0c 06 00 90 20 06 00 00 06 00 00 00 00
+10: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+20: 00 00 00 00 00 00 00 00 00 00 00 00 43 10 34 85
+30: 00 00 00 00 e0 00 00 00 00 00 00 00 00 00 00 00
+
+00:01.0 PCI bridge: Intel Corporation Xeon E3-1200 v3/4th Gen Core Processor PCI Express x16 Controller (rev 06)
+00: 86 80 01 0c 07 04 10 00 06 00 04 06 10 00 81 00
+10: 00 00 00 00 00 00 00 00 00 01 01 00 f0 00 00 00
+20: f0 ff 00 00 f1 ff 01 00 00 00 00 00 00 00 00 00
+30: 00 00 00 00 88 00 00 00 00 00 00 00 0b 01 14 00
+
+00:01.1 PCI bridge: Intel Corporation Xeon E3-1200 v3/4th Gen Core Processor PCI Express x8 Controller (rev 06)
+00: 86 80 05 0c 07 04 10 00 06 00 04 06 10 00 81 00
+10: 00 00 00 00 00 00 00 00 00 02 02 00 e0 e0 00 20
+20: 00 f6 00 f7 01 e0 f1 f1 00 00 00 00 00 00 00 00
+30: 00 00 00 00 88 00 00 00 00 00 00 00 0b 01 18 00
+
+00:14.0 USB controller: Intel Corporation 8 Series/C220 Series Chipset Family USB xHCI (rev 04)
+00: 86 80 31 8c 06 04 90 02 04 30 03 0c 00 00 00 00
+10: 04 00 22 f7 00 00 00 00 00 00 00 00 00 00 00 00
+20: 00 00 00 00 00 00 00 00 00 00 00 00 43 10 34 85
+30: 00 00 00 00 70 00 00 00 00 00 00 00 05 01 00 00
+
+00:16.0 Communication controller: Intel Corporation 8 Series/C220 Series Chipset Family MEI Controller #1 (rev 04)
+00: 86 80 3a 8c 06 04 10 00 04 00 80 07 00 00 80 00
+10: 04 b0 23 f7 00 00 00 00 00 00 00 00 00 00 00 00
+20: 00 00 00 00 00 00 00 00 00 00 00 00 43 10 34 85
+30: 00 00 00 00 50 00 00 00 00 00 00 00 05 01 00 00
+
+00:19.0 Ethernet controller: Intel Corporation Ethernet Connection I217-V (rev 04)
+00: 86 80 3b 15 07 04 10 00 04 00 00 02 00 00 00 00
+10: 00 00 20 f7 00 90 23 f7 41 f0 00 00 00 00 00 00
+20: 00 00 00 00 00 00 00 00 00 00 00 00 43 10 9f 85
+30: 00 00 00 00 c8 00 00 00 00 00 00 00 04 01 00 00
+
+00:1a.0 USB controller: Intel Corporation 8 Series/C220 Series Chipset Family USB EHCI #2 (rev 04)
+00: 86 80 2d 8c 06 00 90 02 04 20 03 0c 00 00 00 00
+10: 00 80 23 f7 00 00 00 00 00 00 00 00 00 00 00 00
+20: 00 00 00 00 00 00 00 00 00 00 00 00 43 10 34 85
+30: 00 00 00 00 50 00 00 00 00 00 00 00 04 01 00 00
+
+00:1b.0 Audio device: Intel Corporation 8 Series/C220 Series Chipset High Definition Audio Controller (rev 04)
+00: 86 80 20 8c 06 04 10 00 04 00 03 04 10 00 00 00
+10: 04 00 23 f7 00 00 00 00 00 00 00 00 00 00 00 00
+20: 00 00 00 00 00 00 00 00 00 00 00 00 43 10 9d 85
+30: 00 00 00 00 50 00 00 00 00 00 00 00 03 01 00 00
+
+00:1c.0 PCI bridge: Intel Corporation 8 Series/C220 Series Chipset Family PCI Express Root Port #1 (rev d4)
+00: 86 80 10 8c 07 00 10 00 d4 00 04 06 10 00 81 00
+10: 00 00 00 00 00 00 00 00 00 03 03 00 f0 00 00 20
+20: f0 ff 00 00 f1 ff 01 00 00 00 00 00 00 00 00 00
+30: 00 00 00 00 40 00 00 00 00 00 00 00 0b 01 10 00
+
+00:1c.3 PCI bridge: Intel Corporation 8 Series/C220 Series Chipset Family PCI Express Root Port #4 (rev d4)
+00: 86 80 16 8c 07 00 10 00 d4 00 04 06 10 00 81 00
+10: 00 00 00 00 00 00 00 00 00 04 04 00 d0 d0 00 00
+20: 10 f7 10 f7 f1 ff 01 00 00 00 00 00 00 00 00 00
+30: 00 00 00 00 40 00 00 00 00 00 00 00 0e 04 10 00
+
+00:1c.5 PCI bridge: Intel Corporation 8 Series/C220 Series Chipset Family PCI Express Root Port #6 (rev d4)
+00: 86 80 1a 8c 07 00 10 00 d4 00 04 06 10 00 81 00
+10: 00 00 00 00 00 00 00 00 00 05 06 00 f0 00 00 20
+20: f0 ff 00 00 11 f2 11 f2 00 00 00 00 00 00 00 00
+30: 00 00 00 00 40 00 00 00 00 00 00 00 0a 02 10 00
+
+00:1d.0 USB controller: Intel Corporation 8 Series/C220 Series Chipset Family USB EHCI #1 (rev 04)
+00: 86 80 26 8c 06 00 90 02 04 20 03 0c 00 00 00 00
+10: 00 70 23 f7 00 00 00 00 00 00 00 00 00 00 00 00
+20: 00 00 00 00 00 00 00 00 00 00 00 00 43 10 34 85
+30: 00 00 00 00 50 00 00 00 00 00 00 00 06 01 00 00
+
+00:1f.0 ISA bridge: Intel Corporation Z87 Express LPC Controller (rev 04)
+00: 86 80 44 8c 07 00 10 02 04 00 01 06 00 00 80 00
+10: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+20: 00 00 00 00 00 00 00 00 00 00 00 00 43 10 34 85
+30: 00 00 00 00 e0 00 00 00 00 00 00 00 00 00 00 00
+
+00:1f.2 SATA controller: Intel Corporation 8 Series/C220 Series Chipset Family 6-port SATA Controller 1 [AHCI mode] (rev 04)
+00: 86 80 02 8c 07 04 b0 02 04 01 06 01 00 00 00 00
+10: 91 f0 00 00 81 f0 00 00 71 f0 00 00 61 f0 00 00
+20: 21 f0 00 00 00 60 23 f7 00 00 00 00 43 10 34 85
+30: 00 00 00 00 80 00 00 00 00 00 00 00 0a 02 00 00
+
+00:1f.3 SMBus: Intel Corporation 8 Series/C220 Series Chipset Family SMBus Controller (rev 04)
+00: 86 80 22 8c 03 00 80 02 04 00 05 0c 00 00 00 00
+10: 04 50 23 f7 00 00 00 00 00 00 00 00 00 00 00 00
+20: 01 f0 00 00 00 00 00 00 00 00 00 00 43 10 34 85
+30: 00 00 00 00 00 00 00 00 00 00 00 00 0f 03 00 00
+
+02:00.0 VGA compatible controller: NVIDIA Corporation Device 1c03 (rev a1)
+00: de 10 03 1c 03 00 10 00 a1 00 00 03 10 00 80 00
+10: 00 00 00 f6 0c 00 00 e0 00 00 00 00 0c 00 00 f0
+20: 00 00 00 00 01 e0 00 00 00 00 00 00 de 10 d7 11
+30: 00 00 00 f7 60 00 00 00 00 00 00 00 0a 01 00 00
+
+02:00.1 Audio device: NVIDIA Corporation Device 10f1 (rev a1)
+00: de 10 f1 10 06 00 10 00 a1 00 03 04 10 00 80 00
+10: 00 00 08 f7 00 00 00 00 00 00 00 00 00 00 00 00
+20: 00 00 00 00 00 00 00 00 00 00 00 00 de 10 d7 11
+30: 00 00 00 00 60 00 00 00 00 00 00 00 0f 02 00 00
+
+04:00.0 SATA controller: ASMedia Technology Inc. ASM1062 Serial ATA Controller (rev 01)
+00: 21 1b 12 06 07 04 10 00 01 01 06 01 10 00 00 00
+10: 51 d0 00 00 41 d0 00 00 31 d0 00 00 21 d0 00 00
+20: 01 d0 00 00 00 00 10 f7 00 00 00 00 43 10 8d 85
+30: 00 00 00 00 50 00 00 00 00 00 00 00 0e 01 00 00
+
+05:00.0 PCI bridge: Pericom Semiconductor PI7C9X111SL PCIe-to-PCI Reversible Bridge (rev 02)
+00: d8 12 11 e1 07 00 10 00 02 00 04 06 10 00 01 00
+10: 00 00 00 00 00 00 00 00 05 06 06 20 f1 01 a0 22
+20: f0 ff 00 00 11 f2 11 f2 00 00 00 00 00 00 00 00
+30: 00 00 00 00 80 00 00 00 00 00 00 00 0a 01 10 00
+
+06:04.0 Multimedia video controller: Brooktree Corporation Bt878 Video Capture (rev 11)
+00: 9e 10 6e 03 06 00 90 02 11 00 00 04 00 20 80 00
+10: 08 10 10 f2 00 00 00 00 00 00 00 00 00 00 00 00
+20: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+30: 00 00 00 00 44 00 00 00 00 00 00 00 0a 01 10 28
+
+06:04.1 Multimedia controller: Brooktree Corporation Bt878 Audio Capture (rev 11)
+00: 9e 10 78 08 06 00 90 02 11 00 80 04 00 20 80 00
+10: 08 00 10 f2 00 00 00 00 00 00 00 00 00 00 00 00
+20: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+30: 00 00 00 00 44 00 00 00 00 00 00 00 0a 01 04 ff
+
